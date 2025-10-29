@@ -2,7 +2,7 @@
   "channels": [
     {
       "name": "[COLOR orange][B]>>[/B][/COLOR][COLOR white][B]FILMES[/B][/COLOR]",
-      "externallink": "https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/filmes.json",
+      "url": "https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/filmes.json",
       "thumbnail": "https://img.freepik.com/fotos-premium/um-projetor-de-filme-com-a-palavra-o-ultimo-nele_900370-2721.jpg?w=360",
       "fanart": "",
       "info": ""
@@ -23,5 +23,6 @@
     }
   ]
 }
+
 
 
