@@ -6,7 +6,7 @@ import sys
 
 url = sys.argv[1]
 handle = int(sys.argv[1])
-json_url = "https://github.com/SeuUsuario/SeuRepo/raw/master/menu.json"
+json_url = "https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/channels.json"
 
 response = urllib.request.urlopen(json_url)
 data = json.load(response)
@@ -17,3 +17,4 @@ for item in data['channels']:
     xbmcplugin.addDirectoryItem(handle=handle, url=item['externallink'], listitem=li, isFolder=True)
 
 xbmcplugin.endOfDirectory(handle)
+
