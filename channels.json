@@ -7,17 +7,18 @@
       "fanart": "https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png",
       "info": "Listas iptv"
     },
-   {
+  {
   "channels": [
     {
-      "name": "[COLOR white][B]FILMES[/B][/COLOR]",
-      "externallink": "https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/filmes.json",
+      "name": "FILMES",
+      "url": "https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/filmes.json",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
     }
   ]
-},
+}
+,
     {
       "name": "[COLOR orange][B]>>[/B][/COLOR][COLOR white][B]SÉRIES[/B][/COLOR]",
       "externallink": "https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/series",
@@ -34,6 +35,7 @@
     }
   ]
 }
+
 
 
 
