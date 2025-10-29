@@ -1,0 +1,16 @@
+<addon id="plugin.video.takeroom"
+       name="TAKE ROOM"
+       version="1.0.1"
+       provider-name="Alefer1803">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+    </requires>
+    <extension point="xbmc.addon.metadata">
+        <summary>Take Room - Filmes e Séries</summary>
+        <description>Addon Free</description>
+        <platform>all</platform>
+    </extension>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+</addon>
