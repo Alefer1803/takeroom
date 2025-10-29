@@ -11,7 +11,7 @@
   "channels": [
     {
       "name": "FILMES",
-      "url": "https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/filmes.json",
+      "url": "https://raw.githubusercontent.com/Alefer1803/takeroom/main/filmes.json",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
@@ -35,6 +35,7 @@
     }
   ]
 }
+
 
 
 
