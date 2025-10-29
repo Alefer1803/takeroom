@@ -1,36 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu>
-
-  <item>
-    <name>[COLOR white][B]CANAIS TV[/B][/COLOR]</name>
-    <link>https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/canais.xml</link>
-    <thumbnail>https://img.freepik.com/fotos-premium/console-de-tv-na-mao-da-mulher_146667-4865.jpg</thumbnail>
-    <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
-    <info>Lista de canais ao vivo</info>
-  </item>
-
-  <item>
-    <name>[COLOR orange][B]>>[/B][/COLOR][COLOR white][B] FILMES[/B][/COLOR]</name>
-    <link>https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/filmes.xml</link>
-    <thumbnail>https://img.freepik.com/fotos-premium/um-projetor-de-filme-com-a-palavra-o-ultimo-nele_900370-2721.jpg?w=360</thumbnail>
-    <fanart></fanart>
-    <info>Filmes organizados por categoria</info>
-  </item>
-
-  <item>
-    <name>[COLOR orange][B]>>[/B][/COLOR][COLOR white][B] SÉRIES[/B][/COLOR]</name>
-    <link>https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/series.xml</link>
-    <thumbnail>https://www.tvtime.com/images/posters.png</thumbnail>
-    <fanart></fanart>
-    <info>Séries completas e atualizadas</info>
-  </item>
-
-  <item>
-    <name>[COLOR orange][B]>>[/B][/COLOR][COLOR yellow][B] ANIMES[/B][/COLOR][COLOR white][B] / [/B][/COLOR][COLOR green][B]DESENHOS[/B][/COLOR]</name>
-    <link>https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/animes</link>
-    <thumbnail>https://s0.smartresize.com/wallpaper/132/716/HD-wallpaper-anime-animes-anime-duvar-ka%C4%9F%C4%B1d%C4%B1d%C4%B1.jpg</thumbnail>
-    <fanart></fanart>
-    <info>Animes e desenhos animados</info>
-  </item>
-
-</menu>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Esta estrutura XML representa a lista de menu principal que seu script Python 
+    (default.py) leria se estivesse usando XML em vez de JSON.
+-->
+<menu_principal>
+    <item 
+        name="FILMES" 
+        mode="list_content" 
+        url_conteudo="https://raw.githubusercontent.com/Alefer1803/takeroom/main/listas/filmes.json" 
+        is_folder="true"
+    />
+    <item 
+        name="SÉRIES" 
+        mode="list_content" 
+        url_conteudo="https://raw.githubusercontent.com/Alefer1803/takeroom/main/listas/series.json" 
+        is_folder="true"
+    />
+    <item 
+        name="TV AO VIVO" 
+        mode="list_content" 
+        url_conteudo="https://raw.githubusercontent.com/Alefer1803/takeroom/main/listas/tv_ao_vivo.m3u8" 
+        is_folder="true"
+    />
+    <item 
+        name="CANAL DE TESTE DIRETO (HLS)" 
+        mode="play" 
+        url_conteudo="https://example.com/stream/canal.m3u8" 
+        is_folder="false"
+    />
+</menu_principal>
