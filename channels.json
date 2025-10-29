@@ -16,7 +16,7 @@
     },
     {
       "name": "[COLOR orange][B]>>[/B][/COLOR][COLOR white][B]SÉRIES[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/series",
+      "externallink": "https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/series",
       "thumbnail": "https://www.tvtime.com/images/posters.png",
       "fanart": "",
       "info": ""
@@ -30,5 +30,6 @@
     }
   ]
 }
+
 
 
