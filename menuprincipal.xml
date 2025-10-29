@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Esta estrutura XML representa a lista de menu principal que seu script Python 
+    (default.py) leria se estivesse usando XML em vez de JSON.
+-->
+<menu_principal>
+    <item 
+        name="FILMES" 
+        mode="list_content" 
+        url_conteudo="https://raw.githubusercontent.com/Alefer1803/takeroom/main/filmes" 
+        is_folder="true"
+    />
+    <item 
+        name="SÉRIES" 
+        mode="list_content" 
+        url_conteudo="https://raw.githubusercontent.com/Alefer1803/takeroom/main/series" 
+        is_folder="true"
+    />
+    <item 
+        name="TV AO VIVO" 
+        mode="list_content" 
+        url_conteudo="https://raw.githubusercontent.com/Alefer1803/takeroom/main/tv_ao_vivo.m3u8" 
+        is_folder="true"
+    />
+	
+	<item 
+        name="ANIMES/DESENHOS" 
+        mode="list_content" 
+        url_conteudo="https://raw.githubusercontent.com/Alefer1803/takeroom/main/animes" 
+        is_folder="true"
+    />
+    
+</menu_principal>
