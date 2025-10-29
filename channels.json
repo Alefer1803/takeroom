@@ -3,30 +3,31 @@
     {
       "name": "[COLOR white][B]CANAIS TV - [/B][/COLOR][COLOR green][B] ON [/B][/COLOR]",
       "thumbnail": "https://img.freepik.com/fotos-premium/console-de-tv-na-mao-da-mulher_146667-4865.jpg",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/listateste/listateste.xml",
+      "url": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/listateste/listateste.xml",
       "fanart": "https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png",
       "info": "Listas iptv"
     },
     {
       "name": "[COLOR orange][B]>>[/B][/COLOR][COLOR white][B]FILMES[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes",
+      "url": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes",
       "thumbnail": "https://img.freepik.com/fotos-premium/um-projetor-de-filme-com-a-palavra-o-ultimo-nele_900370-2721.jpg?w=360",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR orange][B]>>[/B][/COLOR][COLOR white][B]SÉRIES[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/series",
+      "url": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/series",
       "thumbnail": "https://www.tvtime.com/images/posters.png",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR orange][B]>>[/B][/COLOR][COLOR yellow][B]ANIMES[/B][/COLOR][COLOR white][B]/[/B][/COLOR][COLOR green][B]DESENHOS[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/animes",
+      "url": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/animes",
       "thumbnail": "https://s0.smartresize.com/wallpaper/132/716/HD-wallpaper-anime-animes-anime-duvar-ka%C4%9F%C4%B1d%C4%B1.jpg",
       "fanart": "",
       "info": ""
     }
   ]
 }
+
