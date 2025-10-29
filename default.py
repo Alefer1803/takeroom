@@ -10,7 +10,7 @@ import traceback # Importa para depuração
 
 # --- CONFIGURAÇÃO DE URL PRINCIPAL (RAIZ) ---
 # A URL onde o script buscará o arquivo JSON do menu principal
-MAIN_MENU_URL = 'https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/menuprincipal'
+MAIN_MENU_URL = 'https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/menuprincipal.xml'
 # --------------------------------------------
 
 # Objetos globais do Kodi
@@ -190,3 +190,4 @@ if __name__ == '__main__':
         url_params = {}
 
     router(url_params)
+
