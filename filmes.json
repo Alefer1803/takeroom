@@ -2,60 +2,66 @@
   "channels": [
     {
       "name": "[COLOR white][B]LANÇAMENTOS[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-lancamento",
+      "path": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-lancamento",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR white][B]LANÇAMENTOS - 02[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-lancamento02",
+      "path": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-lancamento02",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR white][B]AÇÃO[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-acao",
+      "path": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-acao",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR white][B]AVENTURA[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-aventura",
+      "path": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-aventura",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR white][B]ANIMAÇÃO[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-animacao",
+      "path": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-animacao",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR white][B]DRAMA[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-drama",
+      "path": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-drama",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR white][B]FANTASIA[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-fantasia",
+      "path": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-fantasia",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR white][B]FICÇÃO[/B][/COLOR]",
-      "externallink": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-ficcao",
+      "path": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-ficcao",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
       "fanart": "",
       "info": ""
     },
     {
       "name": "[COLOR white][B]SUSPENSE[/B][/COLOR]",
-      "ext
+      "path": "https://github.com/Alefer1803/takeroom1.github.io/raw/master/filmes-suspense",
+      "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
+      "fanart": "",
+      "info": ""
+    }
+  ]
+}
