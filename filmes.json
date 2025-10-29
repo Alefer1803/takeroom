@@ -2,10 +2,10 @@
   "channels": [
     {
       "name": "LANÇAMENTOS",
-      "url": "https://raw.githubusercontent.com/Alefer1803/takeroom/refs/heads/main/filmes-lancamento.json",
+      "url": "https://raw.githubusercontent.com/Alefer1803/takeroom/main/filmes-lancamento.xml",
       "thumbnail": "https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png",
-      "fanart": "",
-      "info": ""
+      "fanart": "https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png",
+      "info": "Filmes de lançamento atualizados"
     }
   ]
 }
