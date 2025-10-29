@@ -1,28 +1,20 @@
-<addon id="plugin.video.takeroom"
-       name="TAKE ROOM"
-       version="1.0.0"
-       provider-name="Take Room">
+<addon id="plugin.video.takeroom" version="1.0.0" name="TAKE ROOM" provider-name="Alefer">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
     </requires>
-
-    <extension point="xbmc.python.pluginsource"
-               library="addon.py">
+    <extension point="xbmc.python.plugin" library="default.py">
         <provides>video</provides>
     </extension>
-
-    <extension point="xbmc.addon.metadata">
-        <summary>ENTRETENIMENTO FREE</summary>
-        <description>
-            Addon de Filme e Séries
-        </description>
-        <platform>all</platform>
-        <language>pt_BR</language>
-        <license>GPL-3.0</license>
-        <source>https://github.com/Alefer1803/takeroom1.github.io/</source>
-        <assets>
-            <icon>resources/images/icon.png</icon>
-            <fanart>resources/images/fanart.jpg</fanart>
-        </assets>
-    </extension>
+	<extension point="xbmc.addon.metadata">
+    <summary lang="en">TAKE ROOM</summary>
+    <language>en</language>
+    <description lang="en">Entretenimento Free</description>
+     <platform>all</platform>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TAKE ROOM</summary>
+    <language>en</language>
+    <description lang="en">Entretenimento Free</description>
+     <platform>all</platform>
+  </extension>
 </addon>
