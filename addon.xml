@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.takeroom"
+       name="Take Room"
+       version="1.0.0"
+       provider-name="Alex">
+
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.six" version="1.9.0"/>
+  </requires>
+
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="pt">Um addon Take Room com Filmes, Séries, Animes e TV ao Vivo.</summary>
+    <description lang="pt">Addon de exemplo criado para demonstrar a estrutura de menus.</description>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
